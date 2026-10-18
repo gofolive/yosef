@@ -1,0 +1,6 @@
+{
+  "name": "MTU Digital Meal Card",
+  "description": "Digital meal card and cafeteria verification system for MTU Tepi Campus dining halls with dynamic QR codes, anti-passback scanning, and real-time headcounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
